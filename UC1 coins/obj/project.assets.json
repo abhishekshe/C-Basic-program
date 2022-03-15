@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\Main\\Main\\Main.csproj",
-      "projectName": "Main",
-      "projectPath": "C:\\Users\\dell\\source\\repos\\Main\\Main\\Main.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\UC1 coins\\UC1 coins\\UC1 coins.csproj",
+      "projectName": "UC1 coins",
+      "projectPath": "C:\\Users\\dell\\source\\repos\\UC1 coins\\UC1 coins\\UC1 coins.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\source\\repos\\Main\\Main\\obj\\",
+      "outputPath": "C:\\Users\\dell\\source\\repos\\UC1 coins\\UC1 coins\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

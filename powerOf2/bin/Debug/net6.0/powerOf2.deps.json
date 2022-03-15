@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Leapyear/1.0.0": {
+      "powerOf2/1.0.0": {
         "runtime": {
-          "Leapyear.dll": {}
+          "powerOf2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Leapyear/1.0.0": {
+    "powerOf2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

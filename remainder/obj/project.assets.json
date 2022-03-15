@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\Factors\\Factors\\Factors.csproj",
-      "projectName": "Factors",
-      "projectPath": "C:\\Users\\dell\\source\\repos\\Factors\\Factors\\Factors.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\remainder\\remainder\\remainder.csproj",
+      "projectName": "remainder",
+      "projectPath": "C:\\Users\\dell\\source\\repos\\remainder\\remainder\\remainder.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\source\\repos\\Factors\\Factors\\obj\\",
+      "outputPath": "C:\\Users\\dell\\source\\repos\\remainder\\remainder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

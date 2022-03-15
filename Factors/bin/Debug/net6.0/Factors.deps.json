@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "harmonic/1.0.0": {
+      "Factors/1.0.0": {
         "runtime": {
-          "harmonic.dll": {}
+          "Factors.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "harmonic/1.0.0": {
+    "Factors/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

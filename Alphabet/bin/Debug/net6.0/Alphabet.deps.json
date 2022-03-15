@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "EvenOdd/1.0.0": {
+      "Alphabet/1.0.0": {
         "runtime": {
-          "EvenOdd.dll": {}
+          "Alphabet.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "EvenOdd/1.0.0": {
+    "Alphabet/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

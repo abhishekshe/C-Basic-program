@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\Factors\Factors\bin\Debug\net6.0\Factors.exe
+C:\Users\dell\source\repos\Factors\Factors\bin\Debug\net6.0\Factors.deps.json
+C:\Users\dell\source\repos\Factors\Factors\bin\Debug\net6.0\Factors.runtimeconfig.json
+C:\Users\dell\source\repos\Factors\Factors\bin\Debug\net6.0\Factors.dll
+C:\Users\dell\source\repos\Factors\Factors\bin\Debug\net6.0\Factors.pdb
+C:\Users\dell\source\repos\Factors\Factors\obj\Debug\net6.0\Factors.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Factors\Factors\obj\Debug\net6.0\Factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Factors\Factors\obj\Debug\net6.0\Factors.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Factors\Factors\obj\Debug\net6.0\Factors.AssemblyInfo.cs
+C:\Users\dell\source\repos\Factors\Factors\obj\Debug\net6.0\Factors.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Factors\Factors\obj\Debug\net6.0\Factors.dll
+C:\Users\dell\source\repos\Factors\Factors\obj\Debug\net6.0\refint\Factors.dll
+C:\Users\dell\source\repos\Factors\Factors\obj\Debug\net6.0\Factors.pdb
+C:\Users\dell\source\repos\Factors\Factors\obj\Debug\net6.0\Factors.genruntimeconfig.cache
+C:\Users\dell\source\repos\Factors\Factors\obj\Debug\net6.0\ref\Factors.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\powerOf2\\powerOf2\\powerOf2.csproj",
-      "projectName": "powerOf2",
-      "projectPath": "C:\\Users\\dell\\source\\repos\\powerOf2\\powerOf2\\powerOf2.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\harmonic\\harmonic\\harmonic.csproj",
+      "projectName": "harmonic",
+      "projectPath": "C:\\Users\\dell\\source\\repos\\harmonic\\harmonic\\harmonic.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\source\\repos\\powerOf2\\powerOf2\\obj\\",
+      "outputPath": "C:\\Users\\dell\\source\\repos\\harmonic\\harmonic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

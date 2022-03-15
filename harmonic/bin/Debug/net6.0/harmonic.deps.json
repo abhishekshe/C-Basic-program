@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "powerOf2/1.0.0": {
+      "harmonic/1.0.0": {
         "runtime": {
-          "powerOf2.dll": {}
+          "harmonic.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "powerOf2/1.0.0": {
+    "harmonic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

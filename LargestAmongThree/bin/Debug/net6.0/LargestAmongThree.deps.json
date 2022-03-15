@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Alphabet/1.0.0": {
+      "LargestAmongThree/1.0.0": {
         "runtime": {
-          "Alphabet.dll": {}
+          "LargestAmongThree.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Alphabet/1.0.0": {
+    "LargestAmongThree/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

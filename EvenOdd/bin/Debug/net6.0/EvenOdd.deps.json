@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Swapping/1.0.0": {
+      "EvenOdd/1.0.0": {
         "runtime": {
-          "Swapping.dll": {}
+          "EvenOdd.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Swapping/1.0.0": {
+    "EvenOdd/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

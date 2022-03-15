@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping", "Swapping\Swapping.csproj", "{A61992F5-092B-4449-8E19-0954B2224510}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOdd", "EvenOdd\EvenOdd.csproj", "{AC00B733-7803-4D4E-B32E-CDE46354BDB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A61992F5-092B-4449-8E19-0954B2224510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A61992F5-092B-4449-8E19-0954B2224510}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A61992F5-092B-4449-8E19-0954B2224510}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A61992F5-092B-4449-8E19-0954B2224510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC00B733-7803-4D4E-B32E-CDE46354BDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC00B733-7803-4D4E-B32E-CDE46354BDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC00B733-7803-4D4E-B32E-CDE46354BDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC00B733-7803-4D4E-B32E-CDE46354BDB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {357CCE5D-48FC-4EA3-9E87-2926C4F54987}
+		SolutionGuid = {9C966A89-50C1-4DEA-A560-1270DB4FDC40}
 	EndGlobalSection
 EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\source\\repos\\Alphabet\\Alphabet\\Alphabet.csproj": {}
+    "C:\\Users\\dell\\source\\repos\\LargestAmongThree\\LargestAmongThree\\LargestAmongThree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\source\\repos\\Alphabet\\Alphabet\\Alphabet.csproj": {
+    "C:\\Users\\dell\\source\\repos\\LargestAmongThree\\LargestAmongThree\\LargestAmongThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\Alphabet\\Alphabet\\Alphabet.csproj",
-        "projectName": "Alphabet",
-        "projectPath": "C:\\Users\\dell\\source\\repos\\Alphabet\\Alphabet\\Alphabet.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\LargestAmongThree\\LargestAmongThree\\LargestAmongThree.csproj",
+        "projectName": "LargestAmongThree",
+        "projectPath": "C:\\Users\\dell\\source\\repos\\LargestAmongThree\\LargestAmongThree\\LargestAmongThree.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\source\\repos\\Alphabet\\Alphabet\\obj\\",
+        "outputPath": "C:\\Users\\dell\\source\\repos\\LargestAmongThree\\LargestAmongThree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

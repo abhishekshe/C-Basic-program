@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Factors/1.0.0": {
+      "remainder/1.0.0": {
         "runtime": {
-          "Factors.dll": {}
+          "remainder.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Factors/1.0.0": {
+    "remainder/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

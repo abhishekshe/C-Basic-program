@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leapyear", "Leapyear\Leapyear.csproj", "{4AABD6E1-7902-4C9D-9901-27E444DC2148}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "powerOf2", "powerOf2\powerOf2.csproj", "{923BC043-3925-42BF-9372-42E1AF31BFFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4AABD6E1-7902-4C9D-9901-27E444DC2148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4AABD6E1-7902-4C9D-9901-27E444DC2148}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4AABD6E1-7902-4C9D-9901-27E444DC2148}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4AABD6E1-7902-4C9D-9901-27E444DC2148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923BC043-3925-42BF-9372-42E1AF31BFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923BC043-3925-42BF-9372-42E1AF31BFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923BC043-3925-42BF-9372-42E1AF31BFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923BC043-3925-42BF-9372-42E1AF31BFFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3E7552C0-ED9A-4EB7-B8F6-BB2BBB28FE18}
+		SolutionGuid = {E23F028A-EB19-4F4E-9793-47725FCD7BB3}
 	EndGlobalSection
 EndGlobal

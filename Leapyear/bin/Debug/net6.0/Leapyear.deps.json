@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "UC1 coins/1.0.0": {
+      "Leapyear/1.0.0": {
         "runtime": {
-          "UC1 coins.dll": {}
+          "Leapyear.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "UC1 coins/1.0.0": {
+    "Leapyear/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

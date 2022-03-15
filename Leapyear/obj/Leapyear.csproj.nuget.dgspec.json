@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\source\\repos\\UC1 coins\\UC1 coins\\UC1 coins.csproj": {}
+    "C:\\Users\\dell\\source\\repos\\Leapyear\\Leapyear\\Leapyear.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\source\\repos\\UC1 coins\\UC1 coins\\UC1 coins.csproj": {
+    "C:\\Users\\dell\\source\\repos\\Leapyear\\Leapyear\\Leapyear.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\UC1 coins\\UC1 coins\\UC1 coins.csproj",
-        "projectName": "UC1 coins",
-        "projectPath": "C:\\Users\\dell\\source\\repos\\UC1 coins\\UC1 coins\\UC1 coins.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\Leapyear\\Leapyear\\Leapyear.csproj",
+        "projectName": "Leapyear",
+        "projectPath": "C:\\Users\\dell\\source\\repos\\Leapyear\\Leapyear\\Leapyear.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\source\\repos\\UC1 coins\\UC1 coins\\obj\\",
+        "outputPath": "C:\\Users\\dell\\source\\repos\\Leapyear\\Leapyear\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
